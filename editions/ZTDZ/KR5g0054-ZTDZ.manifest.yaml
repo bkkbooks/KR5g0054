@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0054/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0054/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞玄靈寶道士明鏡法
+  date: '2015-08-29 02:49:35.035169'
+  source:
+    repository: kanripo
+    path: KR5g0054
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0054_000-ZTDZ.yaml, hash: 'sha256:da5b267998301c8bf1689c6a0c14ad9ffbfdabb3c59b9502f49c0021767b6af7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0054_000-ZTDZ.markers.yaml, hash: 'sha256:5a2df4f5aeac89cc74f684133b6fab6d95bb245cab419913c04d49bcc7d0b9b8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0054_SJB_000-320226a
+    span:
+    - body
+    - 0
+    - 724
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:c2cdc96e0e7d0d3f39d34479d986ad667a08651cf6b117057b7a4e5efeb1d989
